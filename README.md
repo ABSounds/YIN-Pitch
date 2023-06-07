@@ -5,7 +5,7 @@ This repository contains an implementation of the YIN pitch estimation algorithm
 
 The YIN algorithm is a time-domain method based on the computation of the Cumulative Mean Normalized Difference Function (CMNDF) to find the fundamental frequency of a given audio signal.
 <div align="center">
-  <img src="timeSignal.png" height = 250 />
+  <img src="Figures/timeSignal.png" height = 250 />
   <p><em>Fragment of the input signal in the time domain.</em></p>
 </div>
 
@@ -16,7 +16,7 @@ This implementation includes the following components:
 - Visualization of the pitch contour over a spectrogram
 
 <div align="center">
-  <img src="cmndf.png" height = 250 />
+  <img src="Figures/cmndf.png" height = 250 />
   <p><em>Cmndf and predicted tau value.</em></p>
 </div>
 
@@ -32,7 +32,7 @@ Predicted fundamental frequency: 301.61 Hz
 The script computes the estimated f0 values for the input signal and plots them on top of the spectrogram. The result of the pitch estimation for the [input audio](https://freesound.org/people/TheScarlettWitch89/sounds/427200/) (taken from [freesound.org](freesound.org))
 
 <div align="center">
-  <img src="YIN_est_demo.png" alt="Image" />
+  <img src="Figures/YIN_est_demo.png" alt="Image" />
   <p><em>Pitch estimation for the given input signal</em></p>
 </div>
 
@@ -50,7 +50,7 @@ git clone https://github.com/ABSounds/YIN-Pitch.git
 pip install numpy scipy matplotlib tqdm
 ```
 
-3. Run the [`YIN_tracker.ipynb`](YIN_tracker.ipynb) Jupyter Notebook
+3. Run the [`YIN_pitch.ipynb`](YIN_pitch.ipynb) Jupyter Notebook
 
 
 
