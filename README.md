@@ -1,5 +1,5 @@
 # YIN-Pitch
-This repository contains an implementation of the YIN pitch estimation algorithm in Python. The YIN algorithm is a widely used method for estimating the fundamental frequency (pitch) of an audio signal. Based on the paper by Alain de Cheveigné and Hideki Kawahara, "YIN, a fundamental frequency estimator for speech and music", J. Acoust. Soc. Am. 111, 1917 (2002); https://doi.org/10.1121/1.1458024
+This repository contains a Python implementation of the YIN algorithm for fundamental frequency estimation. The YIN algorithm is a widely used method for estimating the fundamental frequency (pitch) of an audio signal. Based on the paper by Alain de Cheveigné and Hideki Kawahara, "YIN, a fundamental frequency estimator for speech and music", J. Acoust. Soc. Am. 111, 1917 (2002); https://doi.org/10.1121/1.1458024
 
 ## The YIN algorithm
 
