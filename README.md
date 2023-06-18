@@ -29,7 +29,7 @@ Predicted fundamental frequency: 301.61 Hz
 
 ## Results
 
-The script computes the estimated f0 values for the input signal and plots them on top of the spectrogram. The result of the pitch estimation for the [input audio](https://freesound.org/people/TheScarlettWitch89/sounds/427200/) (taken from [freesound.org](freesound.org))
+The script computes the estimated f0 values for the input signal and plots them on top of the spectrogram. The results of the pitch estimation for the different input audios (taken from [freesound.org](freesound.org)) are included next:
 
 <div align="center">
   <img src="Figures/YIN_est_demo.png" alt="Image" />
@@ -63,3 +63,5 @@ For more information on the YIN pitch estimation algorithm, please refer to the 
 - Sounds taken from [freesound.org](https://freesound.org/):
   - Sound 1: [https://freesound.org/people/TheScarlettWitch89/sounds/427200/](https://freesound.org/people/TheScarlettWitch89/sounds/427200/)
   - Sound 2: [https://freesound.org/people/daalvinz/sounds/367215/](https://freesound.org/people/daalvinz/sounds/367215/)
+  - Sound 3: [https://freesound.org/people/HerbertBoland/sounds/30084/](https://freesound.org/people/HerbertBoland/sounds/30084/)
+  - Sound 4: [https://freesound.org/people/TheScarlettWitch89/sounds/417938/](https://freesound.org/people/TheScarlettWitch89/sounds/417938/)
