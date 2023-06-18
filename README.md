@@ -31,21 +31,25 @@ Predicted fundamental frequency: 301.61 Hz
 
 The script computes the estimated f0 values for the input signal and plots them on top of the spectrogram. The results of the pitch estimation for the different input audios (taken from [freesound.org](freesound.org)) are included next:
 
+Sound 1: [https://freesound.org/people/TheScarlettWitch89/sounds/427200/](https://freesound.org/people/TheScarlettWitch89/sounds/427200/)
 <div align="center">
   <img src="Figures/Pitch_estimation_Sound1.png" alt="Image" />
   <p><em>Pitch estimation for the example sound 1 (Female alto vocal range)</em></p>
 </div>
 
+Sound 2: [https://freesound.org/people/daalvinz/sounds/367215/](https://freesound.org/people/daalvinz/sounds/367215/)
 <div align="center">
   <img src="Figures/Pitch_estimation_Sound2.png" alt="Image" />
   <p><em>Pitch estimation for the example sound 2 (Male baritone vocal range)</em></p>
 </div>
 
+Sound 3: [https://freesound.org/people/HerbertBoland/sounds/30084/](https://freesound.org/people/HerbertBoland/sounds/30084/)
 <div align="center">
   <img src="Figures/Pitch_estimation_Sound3.png" alt="Image" />
   <p><em>Pitch estimation for the example sound 3 (Female soprano vocal range)</em></p>
 </div>
 
+Sound 4: [https://freesound.org/people/TheScarlettWitch89/sounds/417938/](https://freesound.org/people/TheScarlettWitch89/sounds/417938/)
 <div align="center">
   <img src="Figures/Pitch_estimation_Sound4.png" alt="Image" />
   <p><em>Pitch estimation for the example sound 4 (Female mezzo soprano vocal range)</em></p>
